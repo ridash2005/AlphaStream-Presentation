@@ -76,7 +76,7 @@ function Chrome({ n, section }) {
         fontFamily: FONT_MONO, fontSize: 17, color: COLORS.textFaint, letterSpacing: '0.08em', zIndex: 10,
         whiteSpace: 'nowrap',
       }}>
-        <span>TEAM NAMOFANS</span>
+        <span>RICKARYA DAS</span>
         <span style={{ margin: '0 14px' }}>·</span>
         <span>PS-06 · AI FOR THE INDIAN INVESTOR</span>
         <span style={{ marginLeft: 'auto', color: COLORS.cyan }}>github.com/wildcraft958/AlphaStream_India</span>
@@ -185,7 +185,7 @@ function Slide1() {
             <div className="anim-el anim-fade delay-2" style={{ display: 'flex', gap: 56, marginTop: 72, fontFamily: FONT_MONO, fontSize: 26 }}>
               <div>
                 <div style={{ color: COLORS.textFaint, fontSize: 20, letterSpacing: '0.2em', marginBottom: 8 }}>TEAM</div>
-                <div style={{ color: COLORS.text }}>NAMOFANS</div>
+                <div style={{ color: COLORS.text }}>RICKARYA DAS</div>
               </div>
               <div>
                 <div style={{ color: COLORS.textFaint, fontSize: 20, letterSpacing: '0.2em', marginBottom: 8 }}>BUILD</div>
@@ -837,7 +837,7 @@ function Slide9() {
 
 // ======= SLIDE 10 =======
 function Slide10() {
-  const team = ['Animesh Raj', 'Devansh Gupta', 'Monika Kumari'];
+  const team = ['Rickarya Das'];
   return (
     <Frame>
       <Chrome n="17" section="END / OPEN FOR Q&A" />
@@ -871,7 +871,7 @@ function Slide10() {
 
             <Card className="anim-el anim-slide-right delay-2" style={{ padding: 36, flex: 1, borderTop: `3px solid ${COLORS.green}` }}>
               <div style={{ fontFamily: FONT_MONO, fontSize: 22, color: COLORS.green, letterSpacing: '0.22em', marginBottom: 18, display: 'flex', alignItems: 'center', gap: 12 }}>
-                <Icon.Users s={22} c={COLORS.green} /> TEAM NAMOFANS
+                <Icon.Users s={22} c={COLORS.green} /> RICKARYA DAS
               </div>
               {team.map((n, i) => (
                 <div key={n} style={{ display: 'flex', gap: 20, fontFamily: FONT_MONO, fontSize: 26, color: COLORS.text, alignItems: 'center', marginBottom: 10 }}>
