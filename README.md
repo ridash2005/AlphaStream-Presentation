@@ -51,7 +51,7 @@
 
 ## 🔗 Project Links
 
-- **Repository**: [AlphaStream India](https://github.com/wildcraft958/AlphaStream_India)
+- **Repository**: [AlphaStream India](https://github.com/ridash2005/AlphaStream_Final)
 - **Problem Statement**: PS-06 · AI for the Indian Investor
 - **Event**: ET GenAI Hackathon Finale 2026
 

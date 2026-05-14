@@ -79,7 +79,7 @@ function Chrome({ n, section }) {
         <span>RICKARYA DAS</span>
         <span style={{ margin: '0 14px' }}>·</span>
         <span>PS-06 · AI FOR THE INDIAN INVESTOR</span>
-        <span style={{ marginLeft: 'auto', color: COLORS.cyan }}>github.com/wildcraft958/AlphaStream_India</span>
+        <span style={{ marginLeft: 'auto', color: COLORS.cyan }}>github.com/ridash2005/AlphaStream_Final</span>
       </div>
     </>
   );
@@ -865,7 +865,7 @@ function Slide10() {
               </div>
               <div style={{ fontFamily: FONT_MONO, fontSize: 26, color: COLORS.text, lineHeight: 1.35 }}>
                 github.com/<br/>
-                <span style={{ color: COLORS.cyan }}>wildcraft958/AlphaStream_India</span>
+                <span style={{ color: COLORS.cyan }}>ridash2005/AlphaStream_Final</span>
               </div>
             </Card>
 

@@ -95,7 +95,7 @@ If the live shift fails, fall back: **"Here is a recording of the same flow from
 
 ## Slide 17 · Team (5:00 to 5:25)
 
-> Everything you saw is at github dot com slash wildcraft958 slash AlphaStream India. Built by Team NamoFans. We are open for an architectural teardown. Thank you.
+> Everything you saw is at github dot com slash ridash2005 slash AlphaStream_Final. Built by Rickarya Das. We are open for an architectural teardown. Thank you.
 
 End on the GitHub URL. Stop talking.
 

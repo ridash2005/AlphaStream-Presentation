@@ -234,9 +234,9 @@ Total: 16 slides. Target speaking time ~10–12 min, plus Q&A. Speak naturally �
 
 > To close.
 >
-> Everything you just saw is at **github.com/wildcraft958/AlphaStream_India**.
+> Everything you just saw is at **github.com/ridash2005/AlphaStream_Final**.
 >
-> Built by Team NamoFans — Animesh Raj, Devansh Gupta, and Monika Kumari.
+> Built by Rickarya Das
 >
 > A live-streaming, multi-agent, source-cited terminal — end to end for Problem Statement Six. We're open for an architectural teardown.
 >
